@@ -4,6 +4,8 @@
 ---
 ![Pipeline Process](./steps/pipeline.gif)
 
+:zap: [Jupyter Notebook with Embedded Videos](https://madhurjain.github.io/CarND-Lane-Lines-Project-1/) :zap:
+
 Overview
 ---
 
